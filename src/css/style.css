@@ -28,6 +28,21 @@ nav {
 }
 
 
+.subheader{
+    height: 84px;
+    /*background-color: #000;*/
+    /*opacity: 0.6;*/
+    background-color: rgba(0,0,0,0.6);
+}
+.subheader .subheader_logo{
+    max-width: 100%;
+}
+.subheader .subheader_official {
+    opacity: 0.5;
+    color: #fff;
+    font-size:13px;
+    font-weight: 400;
+}
 
 
 
