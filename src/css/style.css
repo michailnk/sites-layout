@@ -1,4 +1,9 @@
 
+:root {
+    --background-color: #1eacc7;
+    --second-color: #ff5656;
+}
+
 * {
     font-family: 'Roboto', 'sans-serif';
 }
@@ -81,6 +86,11 @@ nav {
     font-weight: 400;
     text-transform: uppercase;
 }
+.subheader .subheader_btn:hover{
+    background-image: none;
+    background-color: #1eacc7;
+}
+
 
 .prom{
     min-height: 800px;
@@ -135,7 +145,10 @@ nav {
     text-transform: uppercase;
 }
 
-
+.prom .promo_btn:hover{
+    background-image: none;
+    background-color: #1eacc7;
+}
 
 
 
